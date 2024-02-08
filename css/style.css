@@ -147,6 +147,10 @@ h1, h2, h3, h4, h5, h6 {
 .p-2 {padding: 2rem;}
 .p-3 {padding: 3rem;}
 
+.l-heading {
+    font-size: 2.7rem;
+}
+
 .list li {
     padding: 0.5rem 0;
     border-bottom:#555 dotted 1px;
